@@ -1,7 +1,7 @@
 # EyeScreenerFun 🌐🤖
 
 <div align="center">
-  <img src="./docs/static/img/eyescreener.png" alt="EyeScreenerFun Banner" width="20%" />
+  <img src="./docs/static/img/target.jpg" alt="EyeScreenerFun Banner" width="80%" />
 </div>
 
 ## Welcome to EyeScreenerFun! 🎉
